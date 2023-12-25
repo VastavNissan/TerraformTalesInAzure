@@ -1,7 +1,7 @@
 # Define variables
 variable "resource_group_name" {
   description = "The name of the existing Azure resource group"
-  default     = "rg_sb_eastus_71650_1_170334001952"
+  default     = "Mention Azure resource group name."
 }
 
 variable "location" {
