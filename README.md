@@ -1,5 +1,3 @@
-# TerraformTalesInAzure
-
 # 🌐 AZURE VM Deployment with Terraform
 
 This repository showcases the deployment of a Windows VM on Azure using Terraform. 
