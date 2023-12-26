@@ -8,7 +8,6 @@ This repository showcases the deployment of a Windows VM on Azure using Terrafor
 - Deployed the VM within an existing resource group.
 - Utilized best practices to separate variables and provider details into different `.tf` files.
 - Created various resources such as subnets, network interface cards, and other essential resources required for the VM.
-- Ensured that the VM does not possess a public IP for security reasons.
 
 Feel free to explore the code and adapt it for your own Azure deployments using Terraform! 🌟
 
